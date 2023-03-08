@@ -1,0 +1,27 @@
+.left-pane{
+     text-align: center;
+     margin: 3rem;
+     margin-top: 2rem;
+     padding: 3rem;
+     border-radius: 2rem;
+}
+
+.my-pic{
+     max-width: 35vw;
+}
+
+
+.foot {
+     text-align: center;
+     padding-top: 3rem;
+     padding-bottom: 2rem;
+     background-color: rgb(30, 4, 93);
+}
+
+.foot1 {
+     font-size: 2rem;
+}
+
+h5 i{
+     margin-left: 2rem;
+}
